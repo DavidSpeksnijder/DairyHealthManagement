@@ -1,6 +1,6 @@
 # Website for Dairy Health Management at Utrecht University
 
-🔗 https://bovi-analytics.github.io/DairyHealthManagement/
+🔗 [https://bovi-analytics.github.io/DairyHealthManagement/](https://utrechtuniversity.github.io/DairyHealthManagement/)
 
 ## After updating R
 
